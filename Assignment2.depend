@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1573679797 source:e:\university\semester 3\cps 393 c_c++_unix\assignment\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<stdbool.h>
+
+1573426091 source:e:\university\semester 3\cps 393 c_c++_unix\assignment\assignment2\myfunc.c
+
+1573426070 source:e:\university\semester 3\cps 393 c_c++_unix\assignment\assignment2\methods.c
+	<stdio.h>
+
+1573426070 e:\university\semester 3\cps 393 c_c++_unix\assignment\assignment2\methods.c
+	<stdio.h>
+
